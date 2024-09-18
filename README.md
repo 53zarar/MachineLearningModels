@@ -1,7 +1,7 @@
 <h1>Machine Learning Models ⚙️</h1>
 
 <h2>Description</h2>
-Machine learning models to predict, classify, and cluster different outcome variables using three datasets (dataset1, dataset2, and dataset3)
+Machine learning models to predict, classify, and cluster different outcome variables using three datasets (dataset1, dataset2, and dataset3).
 <br />
 
 
